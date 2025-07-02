@@ -66,4 +66,4 @@ En tant que développeur principal sur ce projet, mes responsabilités couvraien
 
 *   **Idriss Cabrel MBIAPO NZEPA**
 *   [Profil LinkedIn](https://www.linkedin.com/in/idriss-cabrel-mbiapo-nzepa-b1222a363)
-*   [Profil GitHub](https://github.com/idriss-mbiapo/))
+*   [Profil GitHub](https://github.com/idriss-mbiapo/)
